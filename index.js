@@ -29,6 +29,5 @@ console.log(num, "seu fatorial é " + calfatorial(num))
 //     for (let i = 1; i <= num; i++) {
 //         fatorial *= i;
 //     }
-
 //     console.log(`O fatorial de ${num} é ${fatorial}.`);
 // }

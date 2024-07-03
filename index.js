@@ -17,6 +17,7 @@ console.log(num, "seu fatorial é " + calfatorial(num))
 
 
 
+
 // const prompt = require('prompt-sync')();
 
 // // Pergunta ao usuário qual número quer calcular o fatorial

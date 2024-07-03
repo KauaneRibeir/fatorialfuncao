@@ -5,7 +5,7 @@ function calfatorial(num) {
 if (isNaN(num) || num < 0) {
     console.log('Por favor, insira um número inteiro não negativo válido.');
 } else {
-    
+
     for (let i = 1; i <= num; i++) {
         fatorial *= i;
     }
@@ -29,5 +29,6 @@ console.log(num, "seu fatorial é " + calfatorial(num))
 //     for (let i = 1; i <= num; i++) {
 //         fatorial *= i;
 //     }
+
 //     console.log(`O fatorial de ${num} é ${fatorial}.`);
 // }
